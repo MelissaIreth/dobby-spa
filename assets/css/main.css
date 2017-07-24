@@ -1,3 +1,83 @@
+* {
+  font-family: "Montserrat"; }
 
+.navbar {
+  background-color: #2f1f1f;
+  border-radius: 0;
+  margin-bottom: 0; }
+  .navbar .nav {
+    padding-left: 420px; }
+
+.navbar-default .navbar-nav > li > a {
+  color: white; }
+
+.navbar-default .navbar-nav > li > a:hover {
+  color: #eef08b; }
+
+#carrusel {
+  border-bottom: 2px solid #2f1f1f; }
+
+#tratamientos {
+  background-color: #eeefbf;
+  padding-bottom: 70px; }
+  #tratamientos img {
+    margin-top: -70px;
+    border: 10px solid #eef08b; }
+  #tratamientos h4 {
+    font-weight: bolder; }
+  #tratamientos p {
+    text-align: justify; }
+  #tratamientos a {
+    padding: 10px;
+    color: #2f1f1f;
+    background-color: #eef08b;
+    text-decoration: none; }
+
+#welcome {
+  background-color: #f4f3f8;
+  padding: 70px 0;
+  border-bottom: 2px solid #2f1f1f; }
+  #welcome h2 {
+    color: #ff7a00;
+    margin-bottom: 40px; }
+  #welcome p {
+    text-align: justify;
+    margin-bottom: 20px; }
+  #welcome ul {
+    list-style: none;
+    margin-left: -40px; }
+    #welcome ul li {
+      margin-bottom: 5px; }
+      #welcome ul li i {
+        color: #ff7a00; }
+
+#about-gift {
+  padding: 70px 0;
+  background-color: #4a3a3a;
+  color: #eef08b;
+  border-bottom: 2px solid gray; }
+  #about-gift .p-especial {
+    margin-top: -10px; }
+
+footer {
+  padding: 70px 0 0;
+  background-color: #2f1f1f;
+  color: #eef08b; }
+  footer img {
+    background-color: #eef08b;
+    border: 10px solid #ff7a00;
+    border-radius: 100px; }
+  footer h4 {
+    font-weight: bolder; }
+  footer .comilla {
+    font-size: 2em;
+    color: #ff7a00; }
+  footer h5 {
+    padding-top: 20px; }
+  footer .caja-footer {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eef08b; }
+  footer .caja-footer-2 {
+    padding-top: 20px; }
 
 /*# sourceMappingURL=main.css.map */
